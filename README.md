@@ -60,7 +60,7 @@ Funcs:
       + Filters (contrast, white, black, yellow, orange, red, pink, purple, blue, turquoise, green, black and white)
       + Effects (flash, shake, pulse, greenscreening, slow zoom, spin, rotation, blur, disco, color shift)
    
-Weakness: The more videos, the lower the resolution (just apply for video layers)
+Weakness: The more videos, the lower the resolution (just apply for video layers (maybe))
 
 OS: macOS (the tech I need which was not supported on iOS yet)
 
