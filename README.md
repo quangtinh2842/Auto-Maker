@@ -1,5 +1,6 @@
 # Auto-Maker
 Des: A video editor with less-user interface.
+
 Funcs:
   - Sound:
       + Start time (on timeline)
@@ -58,6 +59,9 @@ Funcs:
       + Adjust color (exposure, contrast, saturation, temperature, transparency, negative)
       + Filters (contrast, white, black, yellow, orange, red, pink, purple, blue, turquoise, green, black and white)
       + Effects (flash, shake, pulse, greenscreening, slow zoom, spin, rotation, blur, disco, color shift)
+   
 Weakness: The more videos, the lower the resolution (just apply for video layers)
+
 OS: macOS (the tech I need which was not supported on iOS yet)
+
 Frameworks: Cocoa, AVFoundation, CoreImage
