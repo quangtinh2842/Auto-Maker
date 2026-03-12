@@ -1,6 +1,8 @@
 # Auto-Maker
 Des: A video editor with less-user interface.
 
+Additional drive for this repo: https://drive.google.com/drive/folders/1WWE6NZPNNinPFNVKgwJHnISOFmzVhsuV?usp=sharing
+
 Funcs:
   - Sound:
       + Start time (on timeline)
