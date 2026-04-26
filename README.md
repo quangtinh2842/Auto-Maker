@@ -20,7 +20,7 @@ Funcs:
       + Border width
       + Border color
       + Fade (fade in & fade out)
-      + // Bright (bright in & bright out)
+      + // ❌ Bright (bright in & bright out)
       + Shadow
       + Rotate
       + Adjust color (exposure, contrast, saturation, temperature, transparency, negative)
@@ -32,14 +32,14 @@ Funcs:
       + Trim
       + Frame (position & size on canvas)
       + Crop
-      + // Corner radius
-      + // Fade (fade in & fade out)
-      + // Bright (bright in & bright out)
-      + // Shadow
-      + // Rotate
-      + // Adjust color (exposure, contrast, saturation, temperature, transparency, negative)
-      + // Filters (contrast, white, black, yellow, orange, red, pink, purple, blue, turquoise, green, black and white)
-      + // Effects (flash, shake, pulse, greenscreening, slow zoom, spin, rotation, blur, disco, color shift)
+      + // ❌ Corner radius
+      + // ❌ Fade (fade in & fade out)
+      + // ❌ Bright (bright in & bright out)
+      + // ❌ Shadow
+      + // ❌ Rotate
+      + // ❌ Adjust color (exposure, contrast, saturation, temperature, transparency, negative)
+      + // ❌ Filters (contrast, white, black, yellow, orange, red, pink, purple, blue, turquoise, green, black and white)
+      + // ❌ Effects (flash, shake, pulse, greenscreening, slow zoom, spin, rotation, blur, disco, color shift)
   - Text:
       + Layer
       + Start time (on timeline)
@@ -55,7 +55,7 @@ Funcs:
       + Border width
       + Border color
       + Fade (fade in & fade out)
-      + // Bright (bright in & bright out)
+      + // ❌ Bright (bright in & bright out)
       + Shadow
       + Rotate
       + Adjust color (exposure, contrast, saturation, temperature, transparency, negative)
