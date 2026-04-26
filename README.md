@@ -9,6 +9,20 @@ Funcs:
       + Trim
       + Adjust volume
       + Fade (fade in & fade out)
+  - Video:
+      + Layer (for videos group)
+      + Start time (on timeline)
+      + Trim
+      + Frame (position & size on canvas)
+      + Crop
+      + // ❌ Corner radius
+      + // ❌ Fade (fade in & fade out)
+      + // ❌ Bright (bright in & bright out)
+      + // ❌ Shadow
+      + // ❌ Rotate
+      + // ❌ Adjust color (exposure, contrast, saturation, temperature, transparency, negative)
+      + // ❌ Filters (contrast, white, black, yellow, orange, red, pink, purple, blue, turquoise, green, black and white)
+      + // ❌ Effects (flash, shake, pulse, greenscreening, slow zoom, spin, rotation, blur, disco, color shift)
   - Image:
       + Layer
       + Start time (on timeline)
@@ -26,20 +40,6 @@ Funcs:
       + Adjust color (exposure, contrast, saturation, temperature, transparency, negative)
       + Filters (contrast, white, black, yellow, orange, red, pink, purple, blue, turquoise, green, black and white)
       + Effects (flash, shake, pulse, greenscreening, slow zoom, spin, rotation, blur, disco, color shift)
-  - Video:
-      + Layer (for videos group)
-      + Start time (on timeline)
-      + Trim
-      + Frame (position & size on canvas)
-      + Crop
-      + // ❌ Corner radius
-      + // ❌ Fade (fade in & fade out)
-      + // ❌ Bright (bright in & bright out)
-      + // ❌ Shadow
-      + // ❌ Rotate
-      + // ❌ Adjust color (exposure, contrast, saturation, temperature, transparency, negative)
-      + // ❌ Filters (contrast, white, black, yellow, orange, red, pink, purple, blue, turquoise, green, black and white)
-      + // ❌ Effects (flash, shake, pulse, greenscreening, slow zoom, spin, rotation, blur, disco, color shift)
   - Text:
       + Layer
       + Start time (on timeline)
