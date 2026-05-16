@@ -10,7 +10,7 @@ Funcs:
       + Adjust volume
       + Fade (fade in & fade out)
   - Video:
-      + Layer (for videos group)
+      + Layer (for videos group) - This is why the more videos you add, the blurrier it gets
       + Start time (on timeline)
       + Trim
       + Frame (position & size on canvas)
