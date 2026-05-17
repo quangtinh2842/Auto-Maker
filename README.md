@@ -1,9 +1,4 @@
-<iframe 
-  src="https://drive.google.com/file/d/1tJ3401iDq2nD2yY1uYmkt3Na2yOakQ2M/preview" 
-  width="1920" 
-  height="1080" 
-  allow="autoplay">
-</iframe>
+<iframe src="https://drive.google.com/file/d/1VoY7zqoaRiFAvaUVsbHtSrEQy_2c25UM/preview" width="640" height="480"></iframe>
 
 Des: A video editor with less-user interface.
 
