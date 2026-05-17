@@ -1,5 +1,3 @@
-<iframe src="https://drive.google.com/file/d/1VoY7zqoaRiFAvaUVsbHtSrEQy_2c25UM/preview" width="640" height="480"></iframe>
-
 Des: A video editor with less-user interface.
 
 Assets & Example: https://drive.google.com/drive/folders/1WWE6NZPNNinPFNVKgwJHnISOFmzVhsuV?usp=sharing
