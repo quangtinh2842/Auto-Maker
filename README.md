@@ -1,5 +1,5 @@
 <video width="1920" height="1080" controls>
-  <source src="[https://example.com/movie.mp4](https://drive.google.com/file/d/1VoY7zqoaRiFAvaUVsbHtSrEQy_2c25UM/view?usp=sharing)" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1VoY7zqoaRiFAvaUVsbHtSrEQy_2c25UM/view?usp=sharing" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
