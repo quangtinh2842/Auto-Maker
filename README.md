@@ -1,7 +1,9 @@
-<video width="1920" height="1080" controls>
-  <source src="https://drive.usercontent.google.com/download?id=1VoY7zqoaRiFAvaUVsbHtSrEQy_2c25UM&export=download&authuser=0&confirm=t&uuid=3f4cb579-efbe-4db5-bd79-8ae313d7dee7&at=ALBwUgmxILpbpjFa-ILHyi_F0vMT:1779020493363" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe 
+  src="https://drive.google.com/file/d/1tJ3401iDq2nD2yY1uYmkt3Na2yOakQ2M/preview" 
+  width="1920" 
+  height="1080" 
+  allow="autoplay">
+</iframe>
 
 Des: A video editor with less-user interface.
 
